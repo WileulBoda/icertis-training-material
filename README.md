@@ -3,7 +3,7 @@
 
 ## Icertis Certification Path
 <img
-  src="/ICI%20Practitioner/Certification%20Path/Icertis%20Certification%20Path.png"
+  src="/Certification%20Path/Icertis%20Certification%20Path.png"
   alt="Alt text"
   title="Optional title">
   
